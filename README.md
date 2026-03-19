@@ -4,11 +4,7 @@ Bot privado en Python que descarga contenido desde URLs con `yt-dlp`, permite re
 
 ## Demo
 
-![Demo 0 - Inicio del bot](demo0.png)
-
-![Demo 1 - Flujo de descarga](demo1.png)
-
-![Demo 2 - Resultado enviado](demo2.png)
+![Demo del bot](demo.gif)
 
 ## Que hace este proyecto
 
