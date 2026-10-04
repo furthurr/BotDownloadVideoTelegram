@@ -144,3 +144,14 @@ python app/main.py
 ## Documentacion adicional
 
 Para alcance funcional y decisiones MVP, revisa `docs/PROJECT_SPEC.md`.
+
+## Autor
+
+<a href="https://furthurr.github.io/" target="_blank" rel="noopener noreferrer">Pedro G. V. @furthurr</a>
+
+- **GitHub:** https://github.com/furthurr
+- **Email:** pedrogvas@gmail.com
+
+## Licencia
+
+MIT
